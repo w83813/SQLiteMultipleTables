@@ -1,0 +1,2 @@
+rootProject.name='SQLiteMultipleTables'
+include ':app'
